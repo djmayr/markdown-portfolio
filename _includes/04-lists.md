@@ -1,4 +1,4 @@
 # My favourite things.
-Food
-Music
-Sport
+-Food
+-Music
+-Sport
